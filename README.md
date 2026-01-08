@@ -2,6 +2,10 @@
 
 形態素解析器JUMAN++(JUMAN)と構文解析器KNPのPythonバインディング (Python2系と3系の両方に対応)。
 
+## Deprecation Notice
+
+This repository is no longer maintained. We recommend migrating to [rhoknp](https://github.com/ku-nlp/rhoknp) for ongoing updates and support.
+
 ## Requirements
 - Python
     - Verified Versions: 2.7.15,  3.7.11
